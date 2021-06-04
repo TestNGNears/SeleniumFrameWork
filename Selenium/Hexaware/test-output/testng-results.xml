@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18788" started-at="2021-05-12T12:01:40Z" finished-at="2021-05-12T12:01:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18788" started-at="2021-05-12T12:01:40Z" finished-at="2021-05-12T12:01:59Z">
+      <class name="TestCase.AppTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestCase.AppTest@4411d970]" name="beforeTest" is-config="true" duration-ms="10020" started-at="2021-05-12T17:31:40Z" finished-at="2021-05-12T17:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="userRegister()[pri:0, instance:TestCase.AppTest@4411d970]" name="userRegister" duration-ms="2755" started-at="2021-05-12T17:31:50Z" finished-at="2021-05-12T17:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegister -->
+        <test-method status="PASS" signature="userLogin()[pri:1, instance:TestCase.AppTest@4411d970]" name="userLogin" duration-ms="1150" started-at="2021-05-12T17:31:53Z" finished-at="2021-05-12T17:31:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method status="PASS" signature="openAccount()[pri:2, instance:TestCase.AppTest@4411d970]" name="openAccount" duration-ms="4076" started-at="2021-05-12T17:31:54Z" finished-at="2021-05-12T17:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method status="PASS" signature="verifyAccount()[pri:3, instance:TestCase.AppTest@4411d970]" name="verifyAccount" duration-ms="525" started-at="2021-05-12T17:31:58Z" finished-at="2021-05-12T17:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccount -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestCase.AppTest@4411d970]" name="afterTest" is-config="true" duration-ms="243" started-at="2021-05-12T17:31:59Z" finished-at="2021-05-12T17:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestCase.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
